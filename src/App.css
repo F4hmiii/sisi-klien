@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.custom-navbar-brand {
+  color: brown; /* Mengatur warna teks menjadi coklat */
+}
+
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}

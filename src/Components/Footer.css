@@ -1,0 +1,14 @@
+footer {
+    background-color: #3a4034;
+    color: greenyellow;
+    padding: 20px 0;
+    position: absolute;
+    bottom: 0;
+    width: 95%;
+  }
+  
+  main {
+    margin-bottom: 95px; /* Sesuaikan dengan tinggi footer Anda */
+    /* Contoh: Jika footer Anda memiliki tinggi sekitar 95px */
+  }
+  
